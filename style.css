@@ -25,3 +25,7 @@ a {
 a:hover {
 	color: red;
 }
+
+.red-text {
+	color: red;
+}
