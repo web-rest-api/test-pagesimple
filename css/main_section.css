@@ -1,0 +1,9 @@
+.main_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../assets/mountains.webp");
+    background-position: center;
+    min-height: 50dvh;
+    background-size: cover;
+}
