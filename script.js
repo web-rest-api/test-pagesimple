@@ -6,7 +6,8 @@ const main_section = document.querySelector(".main_section")
 function handleClick(e) {
 	// e.target.innerText = "clicke le btn"
 	// selectioner le titre
-	st.innerText = "bouton cliqué !!"
+    st.innerText = "bouton cliqué !!"
+    // rajout une classe
 	st.classList.add("red-text")
 
 	// changer son innerText
